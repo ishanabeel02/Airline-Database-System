@@ -64,6 +64,10 @@ This project simulates the backend database infrastructure for an airline manage
 5. Review documentation and presentation files for context and explanation.
 
 ---
+## 📄 Entity-Relationship Diagram (ERD)
+
+👉 [View ERD](./ERD.pdf)
+
 
 ## 👩‍💻 Developed By
 
